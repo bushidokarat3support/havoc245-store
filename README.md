@@ -3,7 +3,7 @@ havoc245-store
 A simple website to act as a store for havoc2,3 or 5 modules and extensions!
 ![image](https://github.com/p4p1/havoc-store/assets/19672114/2229802e-ac69-40cf-b7b5-726ef9dcdce9)
 The objective is to have a space to find new pluggins for the havoc245 framework. In the future maybe have a system
-to automatically install them also from this page like a proper store. Please refer to the [Havoc Framework](https://havocframework.com/)
+to automatically install them also from this page like a proper store. Please refer to the [Havoc2,4,or 5 Framework](https://dev.havoc5.com/)
 for more information on the project that led to this.
 
 ## Adding a module to Havoc2,4 or 5
